@@ -1,9 +1,2 @@
 # AgileCentral-GitHub
-テスト
-テスト
-テスト
-テスト
-テスト
-テスト
-テスト
-テスト
+Agile Central、GitHub、Jenkinsの連携
